@@ -1,3 +1,3 @@
 # tinyCNC
-Küçük bir CNC router projesi
-https://www.youtube.com/watch?v=kmQWtPvLtdM linkteki video ya bakarak stl dosyaları oluşturuldu..
+a tiny cnc project
+https://www.youtube.com/watch?v=Y9JTrhbh14M 
